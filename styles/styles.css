@@ -1,5 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 .desafio1{
-    color: red;
+    color: rgb(73, 161, 80);
     padding: 10px;
     font-size: 20px;
     width: 500px;
@@ -9,16 +15,18 @@
 
 #title {
     font-size: 50px;
-    color: green
+    color: rgb(18, 30, 146)
 }
 
 #lista1{
-    background-color: lightgray;
+    background-color: hsl(170, 35%, 53%);
     padding: 20px;
+    width: 100px;
 }
 
 
 #lista2{
-    background-color: lightblue;
+    background-color: rgb(77, 84, 87);
     padding: 20px;
+    width: 100px;
   }
